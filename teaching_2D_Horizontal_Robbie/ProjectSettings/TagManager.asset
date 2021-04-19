@@ -41,3 +41,15 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: "\u5F8C\u666F"
+    uniqueID: 1838634433
+    locked: 0
+  - name: "\u5E73\u53F0"
+    uniqueID: 1459933549
+    locked: 0
+  - name: "\u73A9\u5BB6"
+    uniqueID: 2492694733
+    locked: 0
+  - name: "\u524D\u666F"
+    uniqueID: 2472016219
+    locked: 0
